@@ -9,14 +9,14 @@ const services = [
     title: "Lazer Epilasyon",
     description: "Son teknoloji cihazlarla, konforlu ve kalıcı pürüzsüzlük elde edin.",
     icon: <Zap size={24} className="icon-rose" />,
-    image: "/images/Mekan1.png",
+    image: "/images/Mekan1.webp",
   },
   {
     id: "cilt",
     title: "Cilt Bakımı",
     description: "Hydrafacial ve medikal bakımlarla cildinize ihtiyacı olan ışıltıyı verin.",
     icon: <Sparkles size={24} className="icon-rose" />,
-    image: "/images/Mekan2.png",
+    image: "/images/Mekan2.webp",
   },
   {
     id: "tirnak",

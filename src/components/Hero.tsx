@@ -122,7 +122,7 @@ const Hero = () => {
               }}
             >
               <Image
-                src="/images/Mekan1.png"
+                src="/images/Mekan1.webp"
                 alt="Neslim Güngen Malatya merkezinden bir kare"
                 fill
                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
@@ -145,7 +145,7 @@ const Hero = () => {
               }}
             >
               <Image
-                src="/images/Mekan2.png"
+                src="/images/Mekan2.webp"
                 alt="Neslim Güngen Malatya iç mekan detayı"
                 fill
                 sizes="180px"
